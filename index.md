@@ -14,3 +14,4 @@ Agenda:
 | Name | Institution | GitHub username | Website |
 | --- | --- | --- | --- |
 | Elsa Culler | ESIIL, University of Colorado Boulder | [eculler](https://github.com/eculler) | [eculler.github.io](https://eculler.github.io) |
+| John Stella | SUNY College of Environmental Science and Forestry | johncstella | https://www.esf.edu/faculty/stella/index.php |
