@@ -14,3 +14,4 @@ Agenda:
 | Name | Institution | GitHub username | Website |
 | --- | --- | --- | --- |
 | Elsa Culler | ESIIL, University of Colorado Boulder | [eculler](https://github.com/eculler) | [eculler.github.io](https://eculler.github.io) |
+| Anna Tansik | Eckerd College | [atansik](https://github.com/atansik) | [atansik.github.io](https://atansik.github.io) |
