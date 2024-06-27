@@ -14,3 +14,4 @@ Agenda:
 | Name | Institution | GitHub username | Website |
 | --- | --- | --- | --- |
 | Elsa Culler | ESIIL, University of Colorado Boulder | [eculler](https://github.com/eculler) | [eculler.github.io](https://eculler.github.io) |
+| Romullo Lima | Labeco Peixes, Federal University of Rio de Janeiro | [romullol](https://github.com/Romullol) | [romullol.github.io] (https://romullol.github.io/) |
