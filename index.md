@@ -14,3 +14,5 @@ Agenda:
 | Name | Institution | GitHub username | Website |
 | --- | --- | --- | --- |
 | Elsa Culler | ESIIL, University of Colorado Boulder | [eculler](https://github.com/eculler) | [eculler.github.io](https://eculler.github.io) |
+| Veronica Pagowski | Hopkins Marine Station | [vpagowski](https://github.com/vpagowski)| [vpagowski.github.io] (https://vpagowski.github.io)|
+
