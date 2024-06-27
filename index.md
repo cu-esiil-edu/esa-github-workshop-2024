@@ -15,3 +15,4 @@ Agenda:
 | --- | --- | --- | --- |
 | Elsa Culler | ESIIL, University of Colorado Boulder | [eculler](https://github.com/eculler) | [eculler.github.io](https://eculler.github.io) |
 | Marney Pratt | Smith College | marneypratt | [marneypratt.github.io](https://marneypratt.github.io/) |
+| Test Student | Earth Lab | earthlab-test-student | https://earthlab-test-student.github.io/ |
